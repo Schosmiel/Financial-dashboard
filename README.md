@@ -33,4 +33,4 @@ This project showcases a simple and responsive dashboard created using HTML, CSS
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/Schosmiel/responsive-dashboard.git
+   git clone https://github.com/Schosmiel/Financial-dashboard.git
