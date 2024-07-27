@@ -4,7 +4,7 @@ This project showcases a simple and responsive dashboard created using HTML, CSS
 
 ## Preview
 
-![Dashboard Preview](Tableau/images/inter.png)
+![Dashboard Preview](images/inter.png)
 
 ## Project Contents
 
